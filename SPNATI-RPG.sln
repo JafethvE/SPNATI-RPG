@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPNATI-RPG.Editor", "SPNATI-RPG.Editor.csproj", "{3C8BD44B-824D-713E-B175-E00562A396D5}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPNATI-RPG", "SPNATI-RPG.csproj", "{E34AF404-05B0-D7A1-BE18-1485E1F0226D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPNATI-RPG.Editor", "SPNATI-RPG.Editor.csproj", "{3C8BD44B-824D-713E-B175-E00562A396D5}"
 EndProject
@@ -11,10 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3C8BD44B-824D-713E-B175-E00562A396D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C8BD44B-824D-713E-B175-E00562A396D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C8BD44B-824D-713E-B175-E00562A396D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C8BD44B-824D-713E-B175-E00562A396D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34AF404-05B0-D7A1-BE18-1485E1F0226D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34AF404-05B0-D7A1-BE18-1485E1F0226D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34AF404-05B0-D7A1-BE18-1485E1F0226D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34AF404-05B0-D7A1-BE18-1485E1F0226D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C8BD44B-824D-713E-B175-E00562A396D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3C8BD44B-824D-713E-B175-E00562A396D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C8BD44B-824D-713E-B175-E00562A396D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -22,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EAB2B78-FE28-43D0-875A-C1862B3CA2A9}
 	EndGlobalSection
 EndGlobal

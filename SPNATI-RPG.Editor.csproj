@@ -353,6 +353,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="SPNATI-RPG.csproj">
+      <Project>{E34AF404-05B0-D7A1-BE18-1485E1F0226D}</Project>
+      <Name>SPNATI-RPG</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="C:\Users\Jafeth van Elten\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\Editor\Importer.cs" />
   </ItemGroup>
   <ItemGroup>
